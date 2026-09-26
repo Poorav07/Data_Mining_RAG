@@ -13,7 +13,7 @@ env/
 .vscode/
 
 # ChromaDB
-vector_db/
+Vector_db/
 
 # Processed/generated data
 data/processed/
