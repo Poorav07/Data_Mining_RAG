@@ -1,0 +1,5 @@
+python-pptx
+sentence-transformers
+chromadb
+requests
+streamlit
